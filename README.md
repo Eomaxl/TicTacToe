@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
-
+A normal Tic Tac Toe Game
 ![](<src/Components/Assets/Screenshot 2024-05-24 at 1.34.53 PM.png>)
+
+After a player wins the game
+![alt text](<src/Components/Assets/Screenshot 2024-05-24 at 1.36.55 PM.png>)
 
 ## Available Scripts
 
